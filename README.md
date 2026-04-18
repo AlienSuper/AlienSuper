@@ -35,6 +35,7 @@
 
 ### 来都来了
 
-这里放的，大概就是随性折腾出来的小成果。如果你也喜欢把想法变成能跑起来的代码，或者单纯觉得我这人挺有意思，欢迎随时来找我聊聊，可以在主页找到联系方式~
+这里放的，大概就是随性折腾出来的小成果。如果你也喜欢把想法变成能跑起来的代码，或者单纯觉得我这人挺有意思，欢迎随时来找我聊聊，我的邮箱👇  
+[![Gmail](https://img.shields.io/badge/Gmail-wxxgyq@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abc123@gmail.com)
 
 我是外星小怪，祝你玩得愉快！
